@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Agent-Class: lovexyn0827.fuckjep403.AgentMain
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: lovexyn0827.fuckjep403.AgentMain
